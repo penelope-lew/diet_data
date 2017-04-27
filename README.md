@@ -1,2 +1,2 @@
 # diet_data
-This repository  explains how Writing Function for Weightmedian and Weightmean.
+This repository explains on how to Write Function for Weightmedian and Weightmean.
